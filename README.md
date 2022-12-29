@@ -1,13 +1,7 @@
-- 👋 Hi, I’m @flailton
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Under construction](https://media.tenor.com/Dh7CxUiogBMAAAAi/vev-veve.gif)
 
 <div>
 <a href="https://github.com/flailton">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flailton&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flailton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  
-  ![Snake animation](https://github.com/flailton/flailton/blob/output/github-contribution-grid-snake.svg)
