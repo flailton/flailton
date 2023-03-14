@@ -1,13 +1,10 @@
 ## Hello there, I'm Flailton Batista
 
-
-
-##
-
 ##### 🛠 &nbsp;Tech Stack
 ![PHP](https://img.shields.io/badge/-PHP-1a3047?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-1a3047?style=flat&logo=laravel)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1a3047?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-1a3047?style=flat&logo=typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-1a3047?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1a3047?style=flat&logo=CSS3&logoColor=0070b8)&nbsp;
 ![Vue](https://img.shields.io/badge/Vue-1a3047?style=flat&logo=vuedotjs)&nbsp;
