@@ -22,7 +22,7 @@
 
 ##### 🚧 &nbsp;In progress...
 ![Node.js](https://img.shields.io/badge/-Node.js-1a3047?style=flat&logo=node.js)&nbsp;
-![Nest.js](https://img.shields.io/badge/-Nest.js-1a3047?style=flat&logo=nestjs&logoColor=red)&nbsp;
+![Nest.js](https://img.shields.io/badge/-Nest.js-1a3047?style=flat&logo=nestjs&logoColor=bd2b4b)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-1a3047?style=flat&logo=kotlin)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-1a3047?style=flat&logo=Spring)&nbsp;
 
